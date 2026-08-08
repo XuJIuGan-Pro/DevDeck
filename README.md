@@ -18,7 +18,7 @@ pomodoro, канбан, квесты дня и достижения в одно�
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/hero.png" alt="DevDeck preview" width="700">
+  <img src="1786147805f489.png" alt="DevDeck preview" width="700">
 </p>
 
 ## 🧩 Модули
